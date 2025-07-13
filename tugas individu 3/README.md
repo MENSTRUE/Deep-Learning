@@ -19,13 +19,13 @@ Proyek ini adalah implementasi tugas individu yang bertujuan untuk membangun, me
 #### Hasil Rekonstruksi
 Model mampu merekonstruksi gambar dari data uji dengan tingkat kemiripan yang tinggi, menunjukkan bahwa fitur-fitur penting berhasil ditangkap oleh *encoder*.
 
-![Hasil Rekonstruksi](https://i.imgur.com/your-reconstruction-image.png) 
+![Hasil Rekonstruksi]([https://i.imgur.com/your-reconstruction-image.png](https://github.com/MENSTRUE/Deep-Learning/blob/main/tugas%20individu%203/result/hasil%20rekonstruksi.png)) 
 *(Catatan: Ganti dengan screenshot hasil rekonstruksi Anda)*
 
 #### Visualisasi Ruang Laten
 Plot sebar dari ruang laten 2D menunjukkan model berhasil mengelompokkan item pakaian yang serupa secara berdekatan.
 
-![Ruang Laten](https://i.imgur.com/your-latent-space-image.png) 
+![Ruang Laten](https://github.com/MENSTRUE/Deep-Learning/blob/main/tugas%20individu%203/result/ruang%20laten.png) 
 *(Catatan: Ganti dengan screenshot visualisasi laten Anda)*
 
 ---
