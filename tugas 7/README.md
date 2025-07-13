@@ -6,12 +6,14 @@ Proyek ini bertujuan untuk mengimplementasikan Generative Adversarial Network (G
 Tujuan utama dari proyek ini adalah untuk memahami konsep dasar GAN dan menerapkan pelatihan *adversarial* untuk menghasilkan *output* visual.
 
 ### Anggota Kelompok
-* Wafa Bila Syaefurokhman
-* Muhammad Abbas Al-Badowi
-* Mauludha Fiozaki
+
 * Jauhan Ahmad
-* Sabri Mutiur
+* Mauludha Fiozaki
+* Muhammad Abbas Al-Badowi
 * Muhammad Setya Adjie
+* Sabri Mutiur
+* Wafa Bila Syaefurokhman
+
 
 ### Cara Menjalankan Kode
 1.  **Lingkungan:** Pastikan Anda memiliki Python, PyTorch, dan Torchvision terinstal. Jika menggunakan Kaggle, *library* ini biasanya sudah tersedia.
