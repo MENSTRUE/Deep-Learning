@@ -19,7 +19,7 @@ Proyek ini adalah implementasi tugas individu yang bertujuan untuk membangun, me
 #### Hasil Rekonstruksi
 Model mampu merekonstruksi gambar dari data uji dengan tingkat kemiripan yang tinggi, menunjukkan bahwa fitur-fitur penting berhasil ditangkap oleh *encoder*.
 
-![Hasil Rekonstruksi]([https://i.imgur.com/your-reconstruction-image.png](https://github.com/MENSTRUE/Deep-Learning/blob/main/tugas%20individu%203/result/hasil%20rekonstruksi.png)) 
+![Hasil Rekonstruksi](https://github.com/MENSTRUE/Deep-Learning/blob/main/tugas%20individu%203/result/hasil%20rekonstruksi.png)) 
 *(Catatan: Ganti dengan screenshot hasil rekonstruksi Anda)*
 
 #### Visualisasi Ruang Laten
