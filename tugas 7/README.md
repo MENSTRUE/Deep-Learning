@@ -1,7 +1,7 @@
 # Implementasi Generative Adversarial Network (GAN)
 
 ### Deskripsi Proyek
-Proyek ini bertujuan untuk mengimplementasikan Generative Adversarial Network (GAN) menggunakan PyTorch. Kami melatih dua jaringan saraf (Generator dan Discriminator) dalam proses kompetitif untuk menghasilkan gambar yang realistis dari dataset gambar sederhana.
+Proyek ini bertujuan untuk mengimplementasikan Generative Adversarial Network (GAN) menggunakan kerangka kerja PyTorch guna menghasilkan gambar yang realistis. Dalam proyek ini, kami melatih dua jaringan saraf, yaitu Generator dan Discriminator, yang bekerja secara kompetitif. Generator berfungsi untuk menciptakan gambar baru yang menyerupai data asli, sementara Discriminator bertugas untuk membedakan antara gambar asli dan gambar yang dihasilkan oleh Generator. Proses pelatihan dilakukan menggunakan dataset gambar sederhana, dengan tujuan menghasilkan output visual yang realistis dan berkualitas tinggi.
 
 Tujuan utama dari proyek ini adalah untuk memahami konsep dasar GAN dan menerapkan pelatihan *adversarial* untuk menghasilkan *output* visual.
 
